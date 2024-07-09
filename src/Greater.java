@@ -18,5 +18,6 @@ public class Greater {
         else{
             System.out.println("Greater Number is " +num3);
         }
+    sc.close();
     }
 }
